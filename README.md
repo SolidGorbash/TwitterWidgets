@@ -11,3 +11,9 @@ These are three Twitter Widget.
 For this project I used https://github.com/ricardoper/TwitterOAuth to get the tweets.
 
 ==============
+
+Basic Use:
+
+In the example folder the three widget are all build ready to work. Insert in the define.php file in the php folder your twitter api keys and you'll be ready to go.
+
+In the other folders you'll find all the assets and scripts for each twitter widget. Same as before insert your keys in the define.php file.
