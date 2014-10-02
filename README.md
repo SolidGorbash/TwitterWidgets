@@ -19,4 +19,8 @@ In the example folder the three widget are all build ready to work. Insert in th
 
 In the other folders you'll find all the assets and scripts for each twitter widget. Same as before insert your keys in the define.php file.
 
+You can easily embed all these three widgets in your own website, modify the style and position.
+
 ==============
+
+You can see the widgets working here http://jamesmagnavacca.altervista.org/twitterwidget/index.html.
